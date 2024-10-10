@@ -1,0 +1,2 @@
+# tsetup
+Termux setup comment 
