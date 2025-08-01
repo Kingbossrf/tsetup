@@ -1,2 +1,2 @@
 # tsetup
-Termux setup comment 
+Termux setup commend
